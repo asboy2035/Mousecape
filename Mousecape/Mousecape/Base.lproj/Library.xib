@@ -20,7 +20,7 @@
         <window title="Mousecape" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" frameAutosaveName="LibraryWindow" animationBehavior="default" titlebarAppearsTransparent="YES" titleVisibility="hidden" id="1">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES" fullSizeContentView="YES"/>
             <rect key="contentRect" x="196" y="240" width="711" height="311"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="2048" height="1152"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1512" height="950"/>
             <value key="minSize" type="size" width="502" height="310"/>
             <view key="contentView" id="2">
                 <rect key="frame" x="0.0" y="0.0" width="711" height="311"/>
@@ -278,7 +278,7 @@ CA
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES" utility="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
             <rect key="contentRect" x="272" y="172" width="452" height="58"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="2048" height="1152"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1512" height="950"/>
             <view key="contentView" id="me1-hA-pTT">
                 <rect key="frame" x="0.0" y="0.0" width="452" height="58"/>
                 <autoresizingMask key="autoresizingMask"/>

@@ -20,30 +20,30 @@
         <window title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" titlebarAppearsTransparent="YES" titleVisibility="hidden" id="1" customClass="NSPanel">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES" fullSizeContentView="YES"/>
             <rect key="contentRect" x="196" y="240" width="525" height="296"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="2048" height="1152"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1512" height="950"/>
             <value key="minSize" type="size" width="500" height="296"/>
             <view key="contentView" misplaced="YES" id="2">
-                <rect key="frame" x="0.0" y="0.0" width="525" height="492"/>
+                <rect key="frame" x="0.0" y="0.0" width="525" height="296"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <visualEffectView blendingMode="behindWindow" material="appearanceBased" state="followsWindowActiveState" translatesAutoresizingMaskIntoConstraints="NO" id="bap-gM-yUc">
-                        <rect key="frame" x="0.0" y="0.0" width="525" height="576"/>
+                        <rect key="frame" x="0.0" y="0.0" width="525" height="632"/>
                     </visualEffectView>
                     <splitView misplaced="YES" dividerStyle="thin" vertical="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3cj-R9-WKK">
-                        <rect key="frame" x="0.0" y="168" width="525" height="324"/>
+                        <rect key="frame" x="0.0" y="-28" width="525" height="324"/>
                         <subviews>
                             <customView misplaced="YES" id="IHY-vi-Wpr">
                                 <rect key="frame" x="0.0" y="0.0" width="135" height="324"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <scrollView borderType="none" autohidesScrollers="YES" horizontalLineScroll="34" horizontalPageScroll="10" verticalLineScroll="34" verticalPageScroll="10" usesPredominantAxisScrolling="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2UQ-R4-qJn">
-                                        <rect key="frame" x="0.0" y="22" width="155" height="554"/>
+                                        <rect key="frame" x="0.0" y="22" width="155" height="610"/>
                                         <clipView key="contentView" drawsBackground="NO" copiesOnScroll="NO" id="ame-2S-JV7">
-                                            <rect key="frame" x="0.0" y="0.0" width="155" height="554"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="155" height="610"/>
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                             <subviews>
                                                 <tableView verticalHuggingPriority="750" allowsExpansionToolTips="YES" columnAutoresizingStyle="lastColumnOnly" columnReordering="NO" columnResizing="NO" multipleSelection="NO" emptySelection="NO" autosaveColumns="NO" typeSelect="NO" rowHeight="32" rowSizeStyle="automatic" viewBased="YES" id="MU4-Yh-0PJ">
-                                                    <rect key="frame" x="0.0" y="0.0" width="155" height="554"/>
+                                                    <rect key="frame" x="0.0" y="0.0" width="155" height="610"/>
                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                     <size key="intercellSpacing" width="3" height="2"/>
                                                     <color key="backgroundColor" red="0.1019607843" green="0.1019607843" blue="0.1019607843" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
